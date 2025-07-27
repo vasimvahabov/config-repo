@@ -1,0 +1,3 @@
+application:
+  environment: Development
+  test-data-enabled: true
