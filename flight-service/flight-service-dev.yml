@@ -1,3 +1,3 @@
 application:
-  environment: Development
+  environment: Development Environment for Testing Purposes
   test-data-enabled: true
